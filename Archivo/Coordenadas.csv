@@ -1,0 +1,11 @@
+Geo posición;Lunes;Martes;Miércoles;Jueves;Viernes;Tipo Arsenal
+01-Coord_North;1-feb;;;;;a
+02-Coord_East;;2-abr;;;;ab
+03-Coord_North;;;3-jun;;;abc
+04-Coord_East;;;;4-ago;;abcd
+05-Coord_North;;;;;5-oct;abcdt
+06-Coord_East;;;;4-ago;;abcdt
+07-Coord_North;;;3-jun;;;abcd
+08-Coord_East;;2-abr;;;;abc
+09-Coord_North;1-feb;;;;;ab
+00-Coord_South;;;;;;a
