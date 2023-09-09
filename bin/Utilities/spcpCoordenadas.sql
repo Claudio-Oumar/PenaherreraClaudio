@@ -2,4 +2,8 @@
 .DATABASE spcpCoordenadas;
 
 -- Tabla
-CREATE TABLE SPC
+CREATE TABLE spcpCoordenadas
+(
+    IdUsuario int NOT NULL,
+    Geoposició
+)
